@@ -1,0 +1,7 @@
+ADMIN 
+Username : admin@gmail.com
+Password : admin
+
+USER
+Username : evdinda08@gmail.com
+Password : evina
