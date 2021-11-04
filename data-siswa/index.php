@@ -120,9 +120,9 @@ switch ($getPage) {
     <!--  Material Dashboard CSS    -->
     <link href="../assets/css/material-dashboard.css?v=1.2.0" rel="stylesheet" />
     <!--  CSS for Demo Purpose, don't include it in your project     -->
-    <link href="../assets/css/demo.css" rel="stylesheet" />
+    <link href="https://objectstorage.ap-sydney-1.oraclecloud.com/n/sdrwwjsjidrf/b/bucket-uts/o/css%2Fdemo.css" rel="stylesheet" />
     <!--     Fonts and icons     -->
-    <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://objectstorage.ap-sydney-1.oraclecloud.com/n/sdrwwjsjidrf/b/bucket-uts/o/css%2Ffont-awesome.min.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Roboto:400,700,300|Material+Icons' rel='stylesheet' type='text/css'>
 
 
