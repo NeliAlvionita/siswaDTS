@@ -34,7 +34,7 @@
         <table border="0" width="950">
             <tr>
                 <td>
-                    <img src="../assets/img/logo.png">
+                    <img src="https://objectstorage.ap-sydney-1.oraclecloud.com/n/sdrwwjsjidrf/b/bucket-uts/o/logo.png">
                     <p>
                         <span style="font-size:25px;">SMA DTS </span> <br>
                         <span style="font-size:20px;">Jl. Ahmad Yani </span><br>
