@@ -117,13 +117,13 @@ switch ($getPage) {
 <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
 <meta name="viewport" content="width=device-width" />
 <!-- Bootstrap core CSS     -->
-<link href="../assets/css/bootstrap.min.css" rel="stylesheet" />
+<link href="https://objectstorage.ap-sydney-1.oraclecloud.com/n/sdrwwjsjidrf/b/bucket-uts/o/css%2Fbootstrap.min.css" rel="stylesheet" />
 <!--  Material Dashboard CSS    -->
-<link href="../assets/css/material-dashboard.css?v=1.2.0" rel="stylesheet" />
+<link href="https://objectstorage.ap-sydney-1.oraclecloud.com/n/sdrwwjsjidrf/b/bucket-uts/o/css%2Fmaterial-dashboard.css" />
 <!--  CSS for Demo Purpose, don't include it in your project     -->
-<link href="../assets/css/demo.css" rel="stylesheet" />
+<link href="https://objectstorage.ap-sydney-1.oraclecloud.com/n/sdrwwjsjidrf/b/bucket-uts/o/css%2Fdemo.css" />
 <!--     Fonts and icons     -->
-<link href="../assets/css/font-awesome.min.css" rel="stylesheet">
+<link href="https://objectstorage.ap-sydney-1.oraclecloud.com/n/sdrwwjsjidrf/b/bucket-uts/o/css%2Ffont-awesome.min.css" rel="stylesheet">
 <link href='http://fonts.googleapis.com/css?family=Roboto:400,700,300|Material+Icons' rel='stylesheet' type='text/css'>
 
 
