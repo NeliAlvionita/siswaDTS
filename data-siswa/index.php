@@ -237,23 +237,24 @@ switch ($getPage) {
 </body>
 
 <!--   Core JS Files   -->
-<script src="../assets/js/jquery-3.2.1.min.js" type="text/javascript"></script>
-<script src="../assets/js/bootstrap.min.js" type="text/javascript"></script>
-<script src="../assets/js/material.min.js" type="text/javascript"></script>
+<script src="https://objectstorage.ap-sydney-1.oraclecloud.com/n/sdrwwjsjidrf/b/bucket-uts/o/js%2Fjquery-3.2.1.min.js" type="text/javascript"></script>
+<script src="https://objectstorage.ap-sydney-1.oraclecloud.com/n/sdrwwjsjidrf/b/bucket-uts/o/js%2Fbootstrap.min.js" type="text/javascript"></script>
+<script src=".https://objectstorage.ap-sydney-1.oraclecloud.com/n/sdrwwjsjidrf/b/bucket-uts/o/js%2Fmaterial.min.js" type="text/javascript"></script>
 <!--  Charts Plugin -->
-<script src="../assets/js/chartist.min.js"></script>
+<script src="https://objectstorage.ap-sydney-1.oraclecloud.com/n/sdrwwjsjidrf/b/bucket-uts/o/js%2Fchartist.min.js"></script>
 <!--  Dynamic Elements plugin -->
-<script src="../assets/js/arrive.min.js"></script>
+<script src="https://objectstorage.ap-sydney-1.oraclecloud.com/n/sdrwwjsjidrf/b/bucket-uts/o/js%2Farrive.min.js"></script>
 <!--  PerfectScrollbar Library -->
-<script src="../assets/js/perfect-scrollbar.jquery.min.js"></script>
+<script src="https://objectstorage.ap-sydney-1.oraclecloud.com/n/sdrwwjsjidrf/b/bucket-uts/o/js%2Fperfect-scrollbar.jquery.min.js"></script>
 <!--  Notifications Plugin    -->
-<script src="../assets/js/bootstrap-notify.js"></script>
+<script src="https://objectstorage.ap-sydney-1.oraclecloud.com/n/sdrwwjsjidrf/b/bucket-uts/o/js%2Fbootstrap-notify.js"></script>
 <!--  Google Maps Plugin    -->
 <!-- <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script> -->
 <!-- Material Dashboard javascript methods -->
 <script src="../assets/js/material-dashboard.js?v=1.2.0"></script>
 <!-- Material Dashboard DEMO methods, don't include it in your project! -->
-<script src="../assets/js/demo.js"></script>
+<script src="
+https://objectstorage.ap-sydney-1.oraclecloud.com/n/sdrwwjsjidrf/b/bucket-uts/o/js%2Fdemo.js"></script>
 
 <script>
     $(document).ready(function() {
